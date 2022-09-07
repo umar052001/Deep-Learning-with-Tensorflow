@@ -5,3 +5,5 @@ Sections currently covered in this repository are:
 ## 2. [Neural Networks Regression](https://github.com/umar052001/Deep-Learning-with-Tensorflow/blob/master/01_neural_network_regression_with_tensorflow.ipynb)
 ## 3. [Neural Networks Classification](https://github.com/umar052001/Deep-Learning-with-Tensorflow/blob/master/02_neural_network_classification_with_Tensorflow.ipynb)
 ## 4. [Convolutional Neural Networks and Computer Vision](https://github.com/umar052001/Deep-Learning-with-Tensorflow/blob/master/03_introduction_to_computer_vision.ipynb)
+## 5. Transfer Learning
+* [Features extraction](https://github.com/umar052001/Deep-Learning-with-Tensorflow/blob/master/04_transfer_learning_in_tensorflow_01_features_extraction.ipynb) 
