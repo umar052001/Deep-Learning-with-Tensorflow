@@ -7,3 +7,4 @@ Sections currently covered in this repository are:
 ## 4. [Convolutional Neural Networks and Computer Vision](https://github.com/umar052001/Deep-Learning-with-Tensorflow/blob/master/03_introduction_to_computer_vision.ipynb)
 ## 5. Transfer Learning
 * [Features extraction](https://github.com/umar052001/Deep-Learning-with-Tensorflow/blob/master/04_transfer_learning_in_tensorflow_01_features_extraction.ipynb) 
+* [Fine Tuning](https://github.com/umar052001/Deep-Learning-with-Tensorflow/blob/master/05_transfer_learning_in_tensorflow_fine_tuning.ipynb) 
