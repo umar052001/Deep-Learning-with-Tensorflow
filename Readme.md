@@ -9,3 +9,4 @@ Sections currently covered in this repository are:
 * [Features extraction](https://github.com/umar052001/Deep-Learning-with-Tensorflow/blob/master/04_transfer_learning_in_tensorflow_01_features_extraction.ipynb) 
 * [Fine Tuning](https://github.com/umar052001/Deep-Learning-with-Tensorflow/blob/master/05_transfer_learning_in_tensorflow_fine_tuning.ipynb) 
 * [Scaling up](https://github.com/umar052001/Deep-Learning-with-Tensorflow/blob/master/06_Transfer_Learning_with_Tensorflow_Scaling_up.ipynb)
+## 6. [NLP Introduction](https://github.com/umar052001/Deep-Learning-with-Tensorflow/blob/master/07_introduction_to_NLP.ipynb)
